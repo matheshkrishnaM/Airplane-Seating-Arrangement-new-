@@ -25,9 +25,6 @@ public class Prioritize {
         for (Integer s : c) { // Adding least priority id to the array
             newArray[z++] = s;
         }
-        System.out.println(a);
-        System.out.println(b);
-        System.out.println(c);
         return newArray;
     }
 
