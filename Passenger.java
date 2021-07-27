@@ -1,7 +1,5 @@
 import java.util.*;
 
-
-
 class Passenger{
     int maximumColumn;
     int maximumRow;
