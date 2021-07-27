@@ -45,7 +45,7 @@ class Passenger{
         noOfContingent = contingent.length;
         passengerId =  p.Priority(passengerId);
         findMaximumRowColumn(contingent);
-        System.out.println(maximumColumn+" "+maximumRow);
+       
         DisplayHead(contingent);
         Allotment();
         sc.close();
